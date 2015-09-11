@@ -1,5 +1,5 @@
 # Tutorial
 
-## Editing README.md File
+**Let's Delete The Following Line**
 
 This is my tutorial repository.
