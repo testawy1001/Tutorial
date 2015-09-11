@@ -1,5 +1,5 @@
 # Tutorial
 
-### Editing README.md File
+## Editing README.md File
 
 This is my tutorial repository.
